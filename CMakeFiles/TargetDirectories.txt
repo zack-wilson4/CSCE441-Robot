@@ -1,0 +1,10 @@
+C:/Users/Zack W/Documents/Fall24 CSCE 441/Proj 2/SkeletonCode_02/SkeletonCode/build/CMakeFiles/Assignment2.dir
+C:/Users/Zack W/Documents/Fall24 CSCE 441/Proj 2/SkeletonCode_02/SkeletonCode/build/CMakeFiles/INSTALL.dir
+C:/Users/Zack W/Documents/Fall24 CSCE 441/Proj 2/SkeletonCode_02/SkeletonCode/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Zack W/Documents/Fall24 CSCE 441/Proj 2/SkeletonCode_02/SkeletonCode/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Zack W/Documents/Fall24 CSCE 441/glfw-3.4/debug/CMakeFiles/uninstall.dir
+C:/Users/Zack W/Documents/Fall24 CSCE 441/glfw-3.4/debug/CMakeFiles/INSTALL.dir
+C:/Users/Zack W/Documents/Fall24 CSCE 441/glfw-3.4/debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/Zack W/Documents/Fall24 CSCE 441/glfw-3.4/debug/src/CMakeFiles/glfw.dir
+C:/Users/Zack W/Documents/Fall24 CSCE 441/glfw-3.4/debug/src/CMakeFiles/update_mappings.dir
+C:/Users/Zack W/Documents/Fall24 CSCE 441/glfw-3.4/debug/src/CMakeFiles/INSTALL.dir
